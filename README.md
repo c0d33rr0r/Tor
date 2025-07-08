@@ -57,3 +57,9 @@ Torghost v3.0 usage:
 `  -h      --help         Print this help and exit`
 
 `  -u      --update       Checks for updates`~~
+
+Please donate for the time and effort.
+
+![CashAppDonations](https://github.com/user-attachments/assets/2c6d3ea2-50b0-415f-a750-113de7064b97)
+
+C0d33rr0r@outlook.com
