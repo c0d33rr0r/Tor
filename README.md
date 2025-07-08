@@ -1,4 +1,4 @@
-## What is ArchTorGhost | TorGhost?
+~~## What is TorGhost ?
 TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
 
 ArchTorGhost is a MOD for arch users n the above!
@@ -29,10 +29,6 @@ ArchTorghost v3.0 usage:
 
 `  -x      --stop         Stop ArchTorghost`
 
-`  -h      --help         Print this help and exit`
-
-`  -u      --update       Checks for updates`
-
 ## How to install Linux?
 
 `sudo sudo apt install tor python-stem python-requests python-packaging cython`
@@ -60,4 +56,4 @@ Torghost v3.0 usage:
 
 `  -h      --help         Print this help and exit`
 
-`  -u      --update       Checks for updates`
+`  -u      --update       Checks for updates`~~
